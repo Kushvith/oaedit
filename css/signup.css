@@ -1,0 +1,94 @@
+body {
+  background: url("../images/bk.jpg");
+  background-size: cover;
+  padding: 0;
+  margin:0;
+  text-decoration: none;
+  overflow: hidden;
+}
+
+.containers{
+  opacity: .9;
+  overflow-y:scroll;
+  width: 500px;
+  height: 450px;
+  margin: 100px auto;
+  background-color: #fff;
+  padding: 5px;
+  border-radius: 10px;
+  border:2px solid #2c3e50;
+  /* cursor: pointer; */
+  align-items: center;
+  justify-content: center;
+ 
+}
+.avater{
+  width: 100px;
+  text-align: center;
+  border-radius: 50%;
+}
+form{
+  width: 450px;
+  margin: 0 auto;
+}
+input{
+  width: 430px;
+  padding: 10px;
+  border-radius: 5px;
+  outline-offset: 0ch;
+  outline-width: 1px;
+  margin: 5px;
+  
+}
+input:hover{
+  border:1px solid orange;
+  outline: none;
+}
+#submit{
+  width: 100px;
+  color: rgb(14, 212, 179);
+  background-color: green;
+  border-radius: 20px;
+  outline: none;
+  border: none  ;
+}
+#submit:hover{
+  border-radius: 20px;
+  background-color: greenyellow;
+  cursor: pointer;
+}
+a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+label{
+  cursor: text;
+}
+h2 h1 h3{
+  cursor: text;
+}
+#selectbox{
+  width: 430px;
+  padding: 10px;
+  border-radius: 5px;
+  outline-offset: 0ch;
+  outline-width: 1px;
+  margin: 5px;
+  border : 2px solid black;
+}
+#selectbox:hover{
+  border:1px solid orange;
+  outline: none;
+}
+.logo{
+  top:0;
+  left: 0%;
+  position: absolute;
+  max-width: 30px;
+}
+.logo img{
+  width: 100px;
+  margin: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}

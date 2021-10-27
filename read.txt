@@ -1,0 +1,11 @@
+first change the database by deleting your database
+and go email enable less secure apps
+/contact/sendemail.php update your email and password in line no 21 , 22,26
+/php/signin.php update your email and password in line no 44,45,49
+/php/forgot-email.php update your email and password in line no 30,31,35
+
+teacher dash is working in process
+target="_blank"
+
+oaid = 781057857577-o1qjgka94vd35eu8tv28c1ifk40fa8bq.apps.googleusercontent.com
+oasecreat = AV-llNWUhgCI8IA4wwbckEDV
